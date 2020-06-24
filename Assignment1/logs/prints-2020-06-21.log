@@ -1,0 +1,10 @@
+22:18:25.109 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Disabled Date Picker
+22:18:27.903 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Enabled date picker
+22:19:36.144 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Opening page Selectable
+22:19:37.384 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying clicking on Dynamic WebElements
+22:23:59.814 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Opening page DatePicker
+22:23:59.865 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Disabled Date Picker
+22:23:59.952 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Enabled date picker
+22:24:50.186 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Opening page Selectable
+22:24:50.640 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying clicking on Dynamic WebElements
+22:25:46.188 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Opening page Register

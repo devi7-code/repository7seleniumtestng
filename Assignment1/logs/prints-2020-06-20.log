@@ -1,0 +1,9 @@
+17:14:50.786 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Opening page Register
+17:14:51.057 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Entering all the details required for registeration
+17:14:55.296 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying the title of the newly opened page after registered
+17:15:10.084 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Opening page Register
+17:15:10.089 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Entering all the details required for registeration
+17:15:13.916 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying the title of the newly opened page after registered
+17:15:24.077 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Opening page Frames
+17:15:24.113 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Opening Single Frame
+17:15:25.231 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Opening Nested Frames

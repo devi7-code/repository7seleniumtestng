@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="text1" value="Hi"/>
+  <parameter name="text2" value="Devi"/>
+  <test name="Test(failed)">
+    <parameter name="text1" value="Hi"/>
+    <parameter name="text2" value="Devi"/>
+    <classes>
+      <class name="com.uniqlo.Assignment1.Test.TC_02_Alert">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.uniqlo.Assignment1.Test.TC_02_Alert -->
+      <class name="com.uniqlo.Assignment1.Test.TC_06_Selectable">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.uniqlo.Assignment1.Test.TC_06_Selectable -->
+      <class name="com.uniqlo.Assignment1.Test.TC_04_Frames">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.uniqlo.Assignment1.Test.TC_04_Frames -->
+      <class name="com.uniqlo.Assignment1.Test.TC_01_Register">
+        <methods>
+          <include name="setUp"/>
+          <include name="reportsetup"/>
+          <include name="Register"/>
+        </methods>
+      </class> <!-- com.uniqlo.Assignment1.Test.TC_01_Register -->
+      <class name="com.uniqlo.Assignment1.Test.TC_03_Windows">
+        <methods>
+          <include name="tearDown"/>
+          <include name="Windows"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.uniqlo.Assignment1.Test.TC_03_Windows -->
+      <class name="com.uniqlo.Assignment1.Test.TC_05_DatePicker">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.uniqlo.Assignment1.Test.TC_05_DatePicker -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,11 @@
+20:33:23.384 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Opening page Frames
+20:33:23.466 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Opening Single Frame
+20:33:24.342 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Opening Nested Frames
+20:35:43.379 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Opening page DatePicker
+20:35:43.399 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Disabled Date Picker
+20:35:43.449 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Enabled date picker
+20:37:42.306 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Opening page Selectable
+20:37:42.454 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Dynamic WebElements clicking and Verifying
+10:19:18.376 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Opening page Register
+10:19:18.921 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying Entering all the details required for registeration
+10:19:33.806 [main] INFO  com.uniqlo.Assignment1.Resources.Base - Verifying the title of the newly opened page after registered
